@@ -1,10 +1,10 @@
-# PIE Exclusivity Violations
+# Exclusivity Detections Monthly Process
 
 
 Exclusivity detections are tested on a monthly basis by finding Wayfair products under exclusivity agreements with our suppliers on Amazon. Our current process samples the PartNumbers we test into two parts:
 
   - **WPP: Wayfair Preferred Partners** - A sample of SKUs that are exclusive under WPP agreements with suppliers
-  - **FSB: Flagship Brands - All PartNumbers that have active exclusivity agreements within any of our Flagship Brands
+  - **FSB: Flagship Brands** - All PartNumbers that have active exclusivity agreements within any of our Flagship Brands
 
 Once we have our sample, we coordinate with our Matching team to look for these products on Amazon and log all detections and violations for our reporting.
 
