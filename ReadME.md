@@ -33,8 +33,9 @@ Once we have our sample, we coordinate with our Matching team to look for these 
  - ED_buckets_mmyy
  
 **Manual steps required monthly:**
-  - Sending list of "wayids" to Matching team
+  - Sending list of ManufacturerPartIDs to Matching team
   - Formatting Excel output
+  - Draft email on Google doc and visuals on Tableau
 
 ### To-dos
 
